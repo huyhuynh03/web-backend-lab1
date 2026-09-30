@@ -13,9 +13,9 @@
     "web-backend",
     "lab1"
   ],
-  "author": "Nguyen Phan Thao Nguyen",
-  "studentId": "26110906",
-  "class": "26DTHC2",
+  "author": "Huynh Vu Quoc Huy",
+  "studentId": "25560070",
+  "class": "CSBU109.R11.KHBC",
   "license": "MIT",
   "dependencies": {
     "dotenv": "^16.6.1",

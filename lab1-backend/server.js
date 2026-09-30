@@ -8,9 +8,9 @@ const PORT = process.env.PORT || 5000;
 
 // Student information - used by the /api/greeting extended endpoint
 const STUDENT = {
-  fullName: 'Nguyen Phan Thao Nguyen',
-  studentId: '26110906',
-  class: '26DTHC2',
+  fullName: 'Huynh Vu Quoc Huy',
+  studentId: '25560070',
+  class: 'CSBU109.R11.KHBC',
 };
 
 // Middleware to read JSON data

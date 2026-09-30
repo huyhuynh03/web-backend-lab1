@@ -1,6 +1,6 @@
 # Web Backend Lab 1 - Node.js, MySQL, MongoDB
 
-Student: **Nguyen Phan Thao Nguyen** - Student ID **26110906** - Class **26DTHC2**
+Student: **Huynh Vu Quoc Huy** - Student ID **25560070** - Class **CSBU109.R11.KHBC**
 
 ```
 web-backend-lab1/
@@ -60,9 +60,9 @@ Open the browser:
   "success": true,
   "message": "Hello, this is my information",
   "student": {
-    "fullName": "Nguyen Phan Thao Nguyen",
-    "studentId": "26110906",
-    "class": "26DTHC2"
+    "fullName": "Huynh Vu Quoc Huy",
+    "studentId": "25560070",
+    "class": "CSBU109.R11.KHBC"
   },
   "timestamp": "2026-09-11T08:51:41.247Z"
 }
