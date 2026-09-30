@@ -1,0 +1,24 @@
+{
+  "name": "lab1-backend",
+  "version": "1.0.0",
+  "description": "Lab 1 - Web Backend & Database: Node.js + Express HTTP server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "web-backend",
+    "lab1"
+  ],
+  "author": "Nguyen Phan Thao Nguyen",
+  "studentId": "26110906",
+  "class": "26DTHC2",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.6.1",
+    "express": "^4.22.3"
+  }
+}
